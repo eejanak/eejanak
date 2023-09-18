@@ -1,5 +1,3 @@
-My name is Evan and I am currently a student at the University of Waterloo studying Mechatronics Engineering.
+I'm Evan, currently a student at the University of Waterloo, majoring in Mechatronics Engineering. Technology has always fascinated me, and I'm continually eager to broaden my knowledge in this domain. Mechanical design, artificial intelligence, robotics, and automation captivate my interest.
 
-I have had an interest in technology throughout my life and always look for new things to learn about. I’m interested in mechanical design, artificial intelligence, robotics, and automation.
-
-During high school I had experience with web design through the creation and management of a website for a middle school Model United Nations conference. I also completed a research project to create an image classification model using Tensorflow and a self-created database using over 400 images.
+During my high school years, I gained practical experience in web design while creating and managing a website for a middle school Model United Nations conference hosted by my high school. Moreover, I pursued a research project involving the development of an image classification model using TensorFlow and a custom database.
