@@ -1,4 +1,4 @@
-# evanjanakievski
+# eejanak
 My name is Evan and I am currently a student at the University of Waterloo studying Mechatronics Engineering.
 
 I have had an interest in technology throughout my life and always look for new things to learn about. I’m interested in mechanical design, artificial intelligence, robotics, and automation.
